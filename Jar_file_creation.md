@@ -14,7 +14,18 @@ It can be executed from the java i.e., Java Web Start.
 
 To create the executable JAR file, you need to create a manifest file which is .mf file.
 ```
+## Note
+```
+The JAR file format is based on zip format.
 
+These types of files are mainly used for implementing libraries. 
+
+Java Virtual Machine understands and implements these types of format for the java application.
+
+To perform basic operations related to the JAR file, we use the Java Archive Tool (JAR tool). 
+
+This tool is provided by the Java Development Kit (JDK)
+```
 ## Creating a JAR File in Java
 ```
 jar cf jarfilename inputfiles
