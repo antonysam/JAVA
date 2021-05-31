@@ -18,6 +18,14 @@ obj1 = obj2 = 0
 ```
 if it cant compare the any two objects then it will throw classcast exception
 ```
+## Statement
+```
+Write a program to sort objects length using comparator interface 
+```
+## Sample input
+```
+"Samdany","Jamescastro","George","xavier"
+```
 
 ## Code
 ```
