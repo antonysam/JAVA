@@ -14,7 +14,6 @@ obj1 < obj2 = -ve no
 obj1 = obj2 = 0
 ```
 
-
 ## Exception 
 ```
 if it cant compare the any two objects then it will throw classcast exception
