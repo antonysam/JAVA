@@ -22,6 +22,7 @@ if it cant compare the any two objects then it will throw classcast exception
 
 ## Code
 ```
+
 class Comaparatordemo implements Comparator{
 
 	@Override
